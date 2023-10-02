@@ -1,2 +1,2 @@
-# azizmalouche.html
+# azizmalouche
 Personal Website
